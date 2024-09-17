@@ -1,4 +1,4 @@
-## Coucou 👋
-[POLINO.ME](https://polino.me) est une application qui aide les étudiants à apprendre plus efficacement!
+## Hey 👋
+[POLINO.ME](https://polino.me) is an app that helps people learn more efficiently!
 
-Tout nos repos sont actuellement closed source, mais peut être qu'un jour, sait-on jamais, ils seront open sourcés!
+All our repos are currently closed source but who knows, maybe one day they will be open sourced!
